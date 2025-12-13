@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: 
 nav: true
 nav_order: 6
@@ -10,12 +10,11 @@ nav_order: 6
 # Duke University
 
 
-## Theories of Society
-### Spring 2024 and Spring 2026
+Theories of Society- Spring 2024 and Spring 2026
 TA for James Moody
 
-## Sex, Gender and Society
-### Fall 2022
+
+Sex, Gender and Society- Fall 2022
 TA for Mary Hovespian
 
 
