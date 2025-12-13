@@ -198,7 +198,6 @@ exclude:
   - _pages/repositories.md
   - _pages/profiles.md
   - _pages/dropdown.md
-  - _data/cv.yml
 
 keep_files:
   - CNAME
